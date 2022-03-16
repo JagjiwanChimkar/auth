@@ -1,12 +1,11 @@
-# Frontend: Reatcjs with Materail-UI 
-# Backend: Nodejs with MongoDB
+## Frontend: Reatcjs with Materail-UI 
+## Backend: Nodejs with MongoDB
 
-# ScreeShots
 
 ## SignUp Page 
 [![1.png](https://i.postimg.cc/G2drjrD8/1.png)](https://postimg.cc/HJZfpqBd)
 
-## Pop-Up alert Box giving message: password Not matching during SignUp
+## Pop-Up alert Box giving message: "Password Not matching" during SignUp
 
 [![Screenshot-262.png](https://i.postimg.cc/kMwMfVfn/Screenshot-262.png)](https://postimg.cc/4n7T3xDM)
 
